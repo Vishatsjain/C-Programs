@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<graphics.h>
 #include<conio.h>
-#include<math.h>
-#include<string.h>
+#include<math.h>				// This Program represent your text Graphically.
+#include<string.h>				// Just run the C program and experience the magic.
 
 void main()
 {                   // n is for x
