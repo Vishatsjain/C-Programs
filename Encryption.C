@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
-void main()
-{
-  char str[200];
+void main()                                      
+{					// This is a C program which convert normal text to Encrypted text.
+  char str[200];			
   int i=0,chr=0,st=1,a,b=2,c;
   clrscr();
 
