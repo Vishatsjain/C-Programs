@@ -7,7 +7,7 @@ void main()
   int i=0,chr=0,st=1,a,b=2,c;
   clrscr();
 
-  puts("Enter your message :- \n");
+  puts("Enter your message in small alphabets:- \n");
   gets(str);
 
   for(i=0;str[i]!='\0';i++)
