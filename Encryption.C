@@ -112,16 +112,6 @@ void main()
   {
     printf("\nPlease write your text in small alphabets");
   }
- /*  printf("\nNumber of letters in the string are : %d\n",chr);
-  for(i=0;i<=chr-1;i++)
-  {
-    if(str[i]==' ')
-   {
-      st+=1;
-    }
-  }
-
-  printf("Number of words : %d",st);  */
   getch();
 
 
